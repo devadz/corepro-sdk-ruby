@@ -9,6 +9,7 @@ module CorePro
     # Identifiers
     attr_accessor :accountId
     attr_accessor :customerId
+    attr_accessor :productId
     attr_accessor :tag
     attr_accessor :name
     attr_accessor :routingNumber
