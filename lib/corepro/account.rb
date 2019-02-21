@@ -57,6 +57,7 @@ module CorePro
     attr_accessor :isPrimaryCustomer
     attr_accessor :accessTypeCode
     attr_accessor :customerPriority
+    attr_accessor :targetCustomerId
 
     # customizable
     attr_accessor :customField1
